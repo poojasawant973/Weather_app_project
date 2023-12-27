@@ -1,0 +1,23 @@
+.container .col-md-6 {
+  background-color: beige;
+  padding: 50px;
+  margin-top: 50px;
+  
+}
+
+.container .col-md-6 .row {
+  border-bottom: 1px solid rgb(207, 218, 174);
+  padding: 30px 15px;
+}
+
+#searchbtn {
+  float: right;
+  position: relative;
+  top: -37px;
+  border-radius: 20px;
+  right: 2px;
+}
+
+#wicon {
+  size: 70px;
+}
